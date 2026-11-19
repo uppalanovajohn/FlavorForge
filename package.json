@@ -1,0 +1,12 @@
+{
+  "name": "flavorforge-fridgerescue",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server/server.js",
+    "test": "node tests/smoke-test.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
